@@ -29,3 +29,7 @@ python manage.py migrate
 ```bash
 python manage.py runserver
 ```
+Note: If you face an error related to "cors" then please install the following package
+```bash
+pip install django-cors-headers
+```
