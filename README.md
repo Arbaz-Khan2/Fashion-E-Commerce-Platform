@@ -33,3 +33,7 @@ Note: If you face an error related to "cors" then please installÂ the followingÂ
 ```bash
 pip install django-cors-headers
 ```
+## Deployed on AWS
+Public IP: `http://18.215.180.68:8000/`
+
+## How To Setup
